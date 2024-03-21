@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giulitn
-- 👀 I’m interested in backend software engineering 
-- 📫 How to reach me Slack @giuli
+- 👀 I’m a Sofware Engineer
+- 📫 How to reach me: giuliana.latin@gmail.com
 
 <!---
 giulitn/giulitn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
